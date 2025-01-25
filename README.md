@@ -8,9 +8,7 @@ I’m a **Python Developer** with expertise in **Django** and a passion for expl
 - **Database Management**: PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
 
-### 🌱 What I’m currently working on:
-- Building projects that combine AI and Healthcare
-- Enhancing my skills in prompt engineering and NLP
+I am currently ready to collaborate on relevant projects.
 
 ### 🎯 Goals for 2025:
 - Contribute to open-source AI projects
