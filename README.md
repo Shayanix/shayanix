@@ -1,16 +1,22 @@
 ## Hi there , You can call me SHAYAN 👋
 
-<!--
-**Shayanix/shayanix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Python Developer** with expertise in **Django** and a passion for exploring **Artificial Intelligence** and its applications in **Healthcare**. I enjoy creating solutions that make a real-world impact and love diving into challenging problems.
 
-Here are some ideas to get you started:
+### 🛠 Skills:
+- **Backend Development**: Django, RESTful APIs
+- **AI & Machine Learning**: TensorFlow, PyTorch
+- **Database Management**: PostgreSQL, MySQL
+- **Version Control**: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I’m currently working on:
+- Building projects that combine AI and Healthcare
+- Enhancing my skills in prompt engineering and NLP
+
+### 🎯 Goals for 2025:
+- Contribute to open-source AI projects
+- Develop tools to simplify medical diagnostics using AI
+
+Feel free to explore my repositories and connect with me!
+
+[![GitHub Profile](https://img.shields.io/badge/Follow%20Me-GitHub-black?logo=github&style=for-the-badge)](https://github.com/your-username)
+
