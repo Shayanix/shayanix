@@ -14,6 +14,21 @@ I am currently ready to collaborate on relevant projects.
 - Contribute to open-source AI projects
 - Develop tools to simplify medical diagnostics using AI
 
+###📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
+
+- **Email**: shayanzarandi96@gmail.com
+- **LinkedIn**: www.linkedin.com/in/amirshayan-alizarandi-a5b626130
+
+### ⭐ GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+---
+
 Feel free to explore my repositories and connect with me!
 
 [![GitHub Profile](https://img.shields.io/badge/Follow%20Me-GitHub-black?logo=github&style=for-the-badge)](https://github.com/your-username)
