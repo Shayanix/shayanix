@@ -19,7 +19,7 @@ I am currently ready to collaborate on relevant projects.
 I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
 
 - **Email**: shayanzarandi96@gmail.com
-- **LinkedIn**: www.linkedin.com/in/amirshayan-alizarandi-a5b626130
+- **LinkedIn**: www.linkedin.com/in/amirshayan-alizarandi
 
 ### ⭐ GitHub Stats
 
