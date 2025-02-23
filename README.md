@@ -4,7 +4,6 @@ I’m a **Python Developer** with expertise in **Django** and a passion for expl
 
 ### 🛠 Skills:
 - **Backend Development**: Django, RESTful APIs
-- **AI & Machine Learning**: TensorFlow, PyTorch
 - **Database Management**: PostgreSQL, MySQL
 - **Version Control**: Git, GitHub
 
