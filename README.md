@@ -10,9 +10,6 @@ I’m a **Python Developer** with expertise in **Django** and a passion for expl
 
 I am currently ready to collaborate on relevant projects.
 
-### 🎯 Goals for 2025:
-- Contribute to open-source AI projects
-- Develop tools to simplify medical diagnostics using AI
 
 ###📫 Let's Connect!
 
