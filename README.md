@@ -1,23 +1,61 @@
-## Hi there , You can call me SHAYAN 👋
+# Hi, I'm Shayan 👋
 
-I’m a **Python Developer** with expertise in **Django** and a passion for exploring **Artificial Intelligence** and its applications in **Healthcare**. I enjoy creating solutions that make a real-world impact and love diving into challenging problems.
+### AI Engineer | Security & AI Security | Python | MLOps
 
-### 🛠 Skills:
-- **Backend Development**: Django, RESTful APIs
-- **Database Management**: PostgreSQL, MySQL
-- **Version Control**: Git, GitHub
+I’m a **Biomedical Engineer with an R&D background**, currently focused on **Artificial Intelligence, Machine Learning, and Security**.
 
-I am currently ready to collaborate on relevant projects.
+My interests sit at the intersection of **AI, cybersecurity, and software engineering**, with a particular focus on building practical systems rather than only experimenting with models.
 
+### 🔍 Current Focus
 
-###📫 Let's Connect!
+* 🤖 **Artificial Intelligence & Machine Learning**
+* 🛡️ **Cybersecurity & AI Security**
+* ⚙️ **MLOps & ML Engineering**
+* 🐍 **Python & Backend Development**
+* 📊 **Data Processing & Analytics**
+* 🐧 **Linux, Networking & Infrastructure**
+* 🔎 **Security Operations & SIEM**
 
-I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out to me:
+### 🛠️ Technical Skills
 
-- **Email**: shayanzarandi96@gmail.com
-- **LinkedIn**: www.linkedin.com/in/amirshayan-alizarandi
+**AI / ML**
+Python · NumPy · Pandas · Scikit-learn · PyTorch · TensorFlow · NLP · Deep Learning · RAG
 
-### ⭐ GitHub Stats
+**MLOps / Engineering**
+MLflow · Prefect · Docker · Git · GitHub · DVC · FastAPI
+
+**Security / Infrastructure**
+SIEM · Splunk · Elasticsearch · Linux · Networking · Security Monitoring · EDR/XDR Concepts
+
+**Backend / Software**
+Django · REST APIs · SQL · PostgreSQL · MySQL
+
+### 🧪 What I Build
+
+I enjoy working on projects involving:
+
+* AI/ML applications
+* AI + cybersecurity
+* Security analytics and anomaly detection
+* NLP and intelligent search
+* ML pipelines and MLOps
+* Automation and data-driven systems
+* Practical R&D projects
+
+### 📌 Featured Projects
+
+I’m continuously building and documenting projects across **AI, MLOps, cybersecurity, and intelligent systems**.
+
+Check out my repositories below to see what I’m currently working on.
+
+### 📫 Let's Connect
+
+* **Email:** [shayanzarandi96@gmail.com](mailto:shayanzarandi96@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/amirshayan-alizarandi](http://www.linkedin.com/in/amirshayan-alizarandi)
+
+---
+
+⭐ If you find one of my projects useful, feel free to star the repository!
 
 
 
